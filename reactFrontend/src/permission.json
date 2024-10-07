@@ -1,0 +1,45 @@
+{
+    "permissions": [
+      {
+        "id": "createRole",
+        "permissionText": "Create Role"
+      },
+      {
+        "id": "editRole",
+        "permissionText": "Edit Role"
+      },
+      {
+        "id": "deleteRole",
+        "permissionText": "Delete Role"
+      },
+      {
+        "id": "assignRole",
+        "permissionText": "Assign Role"
+      },
+      {
+        "id": "deleteUser",
+        "permissionText": "Delete User"
+      },
+      {
+        "id": "createUser",
+        "permissionText": "Create User"
+      },
+      {
+        "id": "editUser",
+        "permissionText": "Edit User"
+      },
+      {
+        "id": "viewUsers",
+        "permissionText": "View Users"
+      },
+      {
+        "id": "viewRoles",
+        "permissionText": "View Roles"
+      },
+      {
+        "id": "all",
+        "permissionText": "All Permissions"
+      }
+    ]
+  }
+  

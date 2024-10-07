@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+      "target": "ES6",
+      "module": "ESNext",
+      "outDir": "./dist",
+      "rootDir": "./src",
+      "strict": true,
+      "esModuleInterop": true,
+      "skipLibCheck": true,
+      "moduleResolution": "node", // Ensure modules are resolved correctly
+      "types": ["jest", "node"] // Include Jest and Node types
+  },
+  "include": ["src/**/*"],
+  "exclude": ["node_modules"]
+}

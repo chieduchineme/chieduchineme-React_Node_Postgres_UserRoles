@@ -1,0 +1,9 @@
+backend/node_version/node_modules
+reactFrontend/node_modules
+backend/node_version/dist
+backend/node_version/.env
+reactFrontend/.env
+reactFrontend/package-lock.json
+backend/node_version/package-lock.json
+backend/scala-seed-project/.bsp
+backend/scala-seed-project/target
